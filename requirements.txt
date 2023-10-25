@@ -1,0 +1,10 @@
+asgiref @ file:///Users/cbousseau/work/recipes/ci_py311/asgiref_1677957028708/work
+Django @ file:///Users/cbousseau/work/recipes/ci_py311/django_1677970851911/work
+django-cors-headers==4.3.0
+django-environ==0.11.2
+djangorestframework==3.14.0
+psycopg2 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_6064y7w0c6/croot/psycopg2_1687443467527/work
+pytz==2023.3.post1
+sqlparse @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_16ptvrhamb/croot/sqlparse_1690901943673/work
+
+django~=4.1
